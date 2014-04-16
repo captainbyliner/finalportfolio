@@ -1,0 +1,46 @@
+#examples-parallax {
+    height: 800px;
+    margin-bottom: -600px;
+    overflow: hidden;
+    padding-top: 200px;
+}
+
+
+#parallax-it {
+    font-size: 80px;
+    padding: 0;
+    position: relative;
+}
+
+
+#parallax-it-left {
+    color: #C5C3DE;
+    font-size: 120px;
+    left: -160px;
+    opacity: 0.5;
+    overflow: hidden;
+    position: relative;
+}
+
+
+#parallax-it-right {
+    color: #C5C3DE;
+    font-size: 160px;
+    left: 80px;
+    opacity: 0.25;
+    overflow: hidden;
+    position: relative;
+    width: 900px;
+}
+
+
+h2 {
+    color: #FFB000;
+    font-family: 'Luckiest Guy',Impact,Haettenschweiler,"Franklin Gothic Bold",Charcoal,Gadget,sans-serif;
+    font-size: 150px;
+    font-weight: normal;
+    margin: 0;
+    padding: 60px;
+    text-shadow: 0 2px 1px #000000;
+    text-transform: uppercase;
+}

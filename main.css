@@ -65,3 +65,17 @@ text-transform: uppercase;
 .big-block {
   height: 400px;   
 }
+
+.pictureBox {
+    background-color:red;
+    height:500px;
+    width:100%;
+    margin-right:auto;
+    margin-left:auto;
+}
+
+#portfolioPictures {
+    height:300px;
+    width:600px;
+    float:left;
+}

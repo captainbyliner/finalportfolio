@@ -5,7 +5,7 @@
 
 #mountains-background {
   z-index:1;
-  top:40%;
+  top:30%;
   background-color:black;
 }
 
@@ -13,6 +13,7 @@ section {
   width:612px;
   height:288px;
   float:left;
+  margin-right:200px;
 }
 
 .image {
@@ -44,7 +45,7 @@ section {
 }
 
 nav {
-  height:200px;
+  height:100px;
   background: purple;
   color:white;
   position:fixed;

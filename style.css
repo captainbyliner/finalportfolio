@@ -10,8 +10,8 @@
 }
 
 section {
-  width:612px;
-  height:288px;
+  width:306px;
+  height:144px;
   float:left;
   margin-right:200px;
 }
@@ -45,7 +45,7 @@ section {
 }
 
 nav {
-  height:100px;
+  height:50px;
   background: purple;
   color:white;
   position:fixed;

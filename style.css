@@ -1,5 +1,5 @@
 .scroll {
-  width:25000px;
+  width:10000px;
   position:fixed;
 }
 
@@ -30,15 +30,15 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#d0e4f7', end
 }
 
 section {
-  width:306px;
-  height:144px;
+  width:612px;
+  height:288px;
   float:left;
   margin-right:200px;
 }
 
 .image {
-  width: 306px;
-  height:144px;
+  width: 612px;
+  height:288px;
   margin:10px;
   background:white;
 }

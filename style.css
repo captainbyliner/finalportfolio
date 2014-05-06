@@ -43,30 +43,10 @@ section {
   margin-left:50px;
 }
 
-#section_1 {
-
-  color:white;
-}
-
-
-#section_2 {
- 
-  color:white;
-}
-
-#section_3 {
-
-  color:white;
-}
-
-#section_4 {
-  background:orange;
-  color:white;
-}
-
 nav {
   height:50px;
   background: purple;
+
   color:white;
   position:fixed;
   width:100%;

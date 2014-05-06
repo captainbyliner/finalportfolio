@@ -39,7 +39,8 @@ section {
 .image {
   width: 612px;
   height:288px;
-  margin-right:200px;
+  margin-right:50px;
+  margin-left:50px;
 }
 
 #section_1 {
